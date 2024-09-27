@@ -1,5 +1,5 @@
 ---
-title: 2024 Singapore GP
+title: 2024 Singapore Grand Prix
 description: Welcome to the Singapore Race deep data analysis
 slug: Singapore
 date: 2022-09-22 00:00:00+0000
@@ -11,7 +11,7 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-## SINGAPORE AIRLINES SINGAPORE GRAND PRIX
+## RACE SESSION RESULTS
 
 ### Position Changes over Race
 
