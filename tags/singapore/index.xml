@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Singapore on DataLabOne</title><link>https://robertoforni.github.io/DataLabOne/tags/singapore/</link><description>Recent content in Singapore on DataLabOne</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://robertoforni.github.io/DataLabOne/tags/singapore/index.xml" rel="self" type="application/rss+xml"/><item><title>2024 Singapore Grand Prix</title><link>https://robertoforni.github.io/DataLabOne/p/singapore/</link><pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate><guid>https://robertoforni.github.io/DataLabOne/p/singapore/</guid><description>&lt;img src="https://robertoforni.github.io/DataLabOne/p/singapore/cover.png" alt="Featured image of post 2024 Singapore Grand Prix" />&lt;h2 id="race-session-results">RACE SESSION RESULTS
+&lt;/h2>&lt;h3 id="position-changes-over-race">Position Changes over Race
+&lt;/h3>&lt;p>This chart helps analyze the competitive nature of the race, strategic decisions, and the drivers&amp;rsquo; adaptability to evolving race conditions.&lt;/p>
+&lt;ul>
+&lt;li>📈 &lt;strong>Driver Progress&lt;/strong>: Who gained or lost positions during the race.&lt;/li>
+&lt;li>🏎️ &lt;strong>Overtaking&lt;/strong>: Highlights strong overtakers or drivers falling behind.&lt;/li>
+&lt;li>✋ &lt;strong>Pit Stop Impact&lt;/strong>: Shows how pit strategies affected positions.&lt;/li>
+&lt;li>💥 &lt;strong>Race Incidents&lt;/strong>: Sudden drops may indicate crashes or penalties.&lt;/li>
+&lt;li>📊 &lt;strong>Consistency&lt;/strong>: Reveals drivers who maintained steady positions or fluctuated.&lt;/li>
+&lt;/ul>
+&lt;iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_position_changes.html" width="100%" height="600px" frameborder="0">&lt;/iframe>
+&lt;h3 id="laps-time-distribution-of-each-driver-race-pace">Laps Time Distribution of Each Driver (Race Pace)
+&lt;/h3>&lt;iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_lap_time_distribution.html" width="100%" height="600px" frameborder="0">&lt;/iframe>
+&lt;h3 id="sector-time-analysis">Sector Time Analysis
+&lt;/h3>&lt;iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_sector_time_analysis.html" width="100%" height="600px" frameborder="0">&lt;/iframe>
+&lt;h3 id="lap-time-for-top-3-drivers">Lap Time for Top 3 Drivers
+&lt;/h3>&lt;iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_lap_time_top_3_drivers.html" width="100%" height="600px" frameborder="0">&lt;/iframe>
+&lt;h3 id="tyre-strategy">Tyre Strategy
+&lt;/h3>&lt;iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_tyre_strategy.html" width="100%" height="600px" frameborder="0">&lt;/iframe>
+&lt;h3 id="tyre-degradation">Tyre Degradation
+&lt;/h3>&lt;iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_tyre_degradation.html" width="100%" height="600px" frameborder="0">&lt;/iframe>
+&lt;h3 id="average-time-spent-on-pit-stops-team">Average Time Spent on Pit Stops (Team)
+&lt;/h3>&lt;h3 id="total-time-spent-on-pit-stops-driver">Total Time Spent on Pit stops (Driver)
+&lt;/h3>&lt;h3 id="general-weather-data--track-evolution">General Weather Data &amp;amp; Track Evolution
+&lt;/h3>&lt;iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_weather_conditions.html" width="100%" height="600px" frameborder="0">&lt;/iframe></description></item></channel></rss>
