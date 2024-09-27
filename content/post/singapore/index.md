@@ -11,7 +11,7 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-# FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2024
+# SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2024
 
 ## Lap Time vs. Tyre Life
 
