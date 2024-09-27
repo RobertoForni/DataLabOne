@@ -20,17 +20,25 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 
 ## Position Changes over Race
 
-<iframe src="https://robertoforni.github.io/DataLabOne/charts/Singapore_2024_positions_changes.html" width="100%" height="600px" frameborder="0"></iframe>
+<iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_positions_changes.html" width="100%" height="600px" frameborder="0"></iframe>
 
 ## Laps Time Distribution of Each Driver (Race Pace)
 
 ## Sector Time Analysis
 
+<iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_sector_time_analysis.html" width="100%" height="600px" frameborder="0"></iframe>
+
 ## Lap Time for Top 3 Drivers
+
+<iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_lap_time_top_3_drivers.html" width="100%" height="600px" frameborder="0"></iframe>
 
 ## Tyre Strategy
 
+<iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_tyre_strategy.html" width="100%" height="600px" frameborder="0"></iframe>
+
 ## Tyre Degradation
+
+<iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_tyre_degradation.html" width="100%" height="600px" frameborder="0"></iframe>
 
 ## Average Time Spent on Pit Stops (Team)
 
