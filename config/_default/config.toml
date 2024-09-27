@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://github.com/RobertoForni/DataLabOne"
+baseurl = "http://localhost:1313/RobertoForni/DataLabOne/"
 languageCode = "en-us"
 title = "Hugo Theme Stack Starter"
 
