@@ -20,13 +20,15 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 
 ## Position Changes over Race
 
-<iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_positions_changes.html" width="100%" height="600px" frameborder="0"></iframe>
+<iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_positions_changes.html" width="75%" height="600px" frameborder="0"></iframe>
 
 ## Laps Time Distribution of Each Driver (Race Pace)
 
+<iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_lap_time_distribution.html" width="75%" height="600px" frameborder="0"></iframe>
+
 ## Sector Time Analysis
 
-<iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_sector_time_analysis.html" width="100%" height="600px" frameborder="0"></iframe>
+<iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_sector_time_analysis.html" width="75%" height="600px" frameborder="0"></iframe>
 
 ## Lap Time for Top 3 Drivers
 
