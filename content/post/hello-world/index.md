@@ -1,8 +1,8 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
+title: 2024 Singapore GP
+description: Welcome to the Singapore Race deep data analysis
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 2022-09-22 00:00:00+0000
 image: cover.jpg
 categories:
     - Example Category
