@@ -5,9 +5,9 @@ slug: hello-world
 date: 2022-09-22 00:00:00+0000
 image: cover.png
 categories:
-    - Example Category
+    - Race
 tags:
-    - Example Tag
+    - Singapore
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
