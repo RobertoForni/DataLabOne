@@ -11,6 +11,8 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
+# SINGAPORE 2024 | RACE
+
 ## Lap Time vs. Tyre Life
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
