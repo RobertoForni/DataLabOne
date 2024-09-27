@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Race
+description: Data from Race sessions.
 image:
 
 # Badge style
