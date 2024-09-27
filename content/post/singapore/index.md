@@ -13,12 +13,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 # SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2024
 
-## Lap Time vs. Tyre Life
-
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
-
-
-## Position Changes over Race
+## 1. Position Changes over Race
 
 This chart helps analyze the competitive nature of the race, strategic decisions, and the drivers' adaptability to evolving race conditions.
 
@@ -30,30 +25,30 @@ This chart helps analyze the competitive nature of the race, strategic decisions
 
 <iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_positions_changes.html" width="100%" height="600px" frameborder="0"></iframe>
 
-## Laps Time Distribution of Each Driver (Race Pace)
+## 2. Laps Time Distribution of Each Driver (Race Pace)
 
 <iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_lap_time_distribution.html" width="100%" height="600px" frameborder="0"></iframe>
 
-## Sector Time Analysis
+## 3. Sector Time Analysis
 
 <iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_sector_time_analysis.html" width="100%" height="600px" frameborder="0"></iframe>
 
-## Lap Time for Top 3 Drivers
+## 4. Lap Time for Top 3 Drivers
 
 <iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_lap_time_top_3_drivers.html" width="100%" height="600px" frameborder="0"></iframe>
 
-## Tyre Strategy
+## 5. Tyre Strategy
 
 <iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_tyre_strategy.html" width="100%" height="600px" frameborder="0"></iframe>
 
-## Tyre Degradation
+## 6. Tyre Degradation
 
 <iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_tyre_degradation.html" width="100%" height="600px" frameborder="0"></iframe>
 
-## Average Time Spent on Pit Stops (Team)
+## 7. Average Time Spent on Pit Stops (Team)
 
-## Total Time Spent on Pit stops (Driver)
+## 8. Total Time Spent on Pit stops (Driver)
 
-## General Weather Data & Track Evolution
+## 9. General Weather Data & Track Evolution
 
 <iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_weather_conditions.html" width="100%" height="600px" frameborder="0"></iframe>
