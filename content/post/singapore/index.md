@@ -22,11 +22,11 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 
 This chart helps analyze the competitive nature of the race, strategic decisions, and the drivers' adaptability to evolving race conditions.
 
-- **Driver Progress**: Who gained or lost positions during the race.
-- **Overtaking**: Highlights strong overtakers or drivers falling behind.
-- **Pit Stop Impact**: Shows how pit strategies affected positions.
-- **Race Incidents**: Sudden drops may indicate crashes or penalties.
-- **Consistency**: Reveals drivers who maintained steady positions or fluctuated.
+- 📈 **Driver Progress**: Who gained or lost positions during the race.
+- 🏎️ **Overtaking**: Highlights strong overtakers or drivers falling behind.
+- ✋ **Pit Stop Impact**: Shows how pit strategies affected positions.
+- 💥 **Race Incidents**: Sudden drops may indicate crashes or penalties.
+- 📊 **Consistency**: Reveals drivers who maintained steady positions or fluctuated.
 
 <iframe src="https://robertoforni.github.io/DataLabOne/charts/2024/Singapore_2024_positions_changes.html" width="100%" height="600px" frameborder="0"></iframe>
 
